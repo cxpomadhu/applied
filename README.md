@@ -1,2 +1,2 @@
 # applied
-test
+This is my new page in acit class.
